@@ -1,0 +1,2 @@
+# BetterOutline
+uGUIのTextのアウトラインをより綺麗に表示するクラス
